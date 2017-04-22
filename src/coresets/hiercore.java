@@ -1,3 +1,5 @@
+package coresets;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -18,7 +20,7 @@ import weka.core.DenseInstance;
 import weka.core.Instance;
 import weka.core.Instances;
 
-public class hierClu {
+public class hiercore {
 	
 	public static Instances readDataFile(String filename) throws IOException {
 		//Hello World
