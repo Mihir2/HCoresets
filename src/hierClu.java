@@ -21,7 +21,7 @@ import weka.core.Instances;
 public class hierClu {
 	
 	public static Instances readDataFile(String filename) throws IOException {
-		//Hello World
+		//Hello World1
 		System.out.println("---------------Reading data file------------------");
 		BufferedReader inputReader = null;
 		try {
